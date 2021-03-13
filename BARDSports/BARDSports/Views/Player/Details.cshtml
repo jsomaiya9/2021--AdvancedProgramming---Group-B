@@ -1,0 +1,90 @@
+﻿@model BARDSports.Models.PlayerModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PlayerModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Football.FootballClubName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Football.FootballClubName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Firstname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Firstname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lastname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lastname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Position)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Position)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Goals)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Goals)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Assists)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Assists)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YellowCards)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YellowCards)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RedCards)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RedCards)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PlayerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
