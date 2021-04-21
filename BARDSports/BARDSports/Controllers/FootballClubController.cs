@@ -12,13 +12,13 @@ namespace BARDSports.Controllers
 {
     public class FootballClubController : Controller
     {
-        private BARDSportsDBContext db = new BARDSportsDBContext();
+        private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: FootballClub
         public ActionResult Index()
         {
             var footballClubModels = db.FootballClubModels.Include(f => f.League);
-            return View(footballClubModels.ToList());
+            return View(footballClubModels.ToList().OrderByDescending(f=>f.Points));
         }
 
         // GET: FootballClub/Details/5
@@ -48,7 +48,7 @@ namespace BARDSports.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "FootballClubId,LeagueId,FootballClubName,Goals,Passes,Cleansheets")] FootballClubModel footballClubModel)
+        public ActionResult Create([Bind(Include = "FootballClubId,LeagueId,FootballClubName,Goals,Passes,Cleansheets,Wins,Draws,Lost,Points")] FootballClubModel footballClubModel)
         {
             if (ModelState.IsValid)
             {
@@ -82,7 +82,7 @@ namespace BARDSports.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "FootballClubId,LeagueId,FootballClubName,Goals,Passes,Cleansheets")] FootballClubModel footballClubModel)
+        public ActionResult Edit([Bind(Include = "FootballClubId,LeagueId,FootballClubName,Goals,Passes,Cleansheets,Wins,Draws,Lost,Points")] FootballClubModel footballClubModel)
         {
             if (ModelState.IsValid)
             {

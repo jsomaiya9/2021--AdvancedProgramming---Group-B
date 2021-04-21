@@ -9,7 +9,8 @@ namespace BARDSports.Models
     public class PlayerModel
     {
         [Key]
-        public virtual int PlayerId { get; set; }
+        //Encapsulation get, set methods
+        public virtual int PlayerId { get; set; }//primary key
         public virtual int FootballClubId { get; set; }
         public virtual string Firstname { get; set; }
         public virtual string Lastname { get; set; }

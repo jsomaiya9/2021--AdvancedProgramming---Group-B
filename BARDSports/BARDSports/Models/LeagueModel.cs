@@ -9,7 +9,8 @@ namespace BARDSports.Models
     public class LeagueModel
     {
         [Key]
-        public virtual int LeagueId { get; set; }
+        //Encapsulation get, set methods
+        public virtual int LeagueId { get; set; }//primary key
         public virtual string LeagueName { get; set; }
         public virtual string Description { get; set; }
         public virtual string Seasons { get; set; }

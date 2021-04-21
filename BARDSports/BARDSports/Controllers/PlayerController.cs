@@ -12,13 +12,134 @@ namespace BARDSports.Controllers
 {
     public class PlayerController : Controller
     {
-        private BARDSportsDBContext db = new BARDSportsDBContext();
+        private ApplicationDbContext db = new ApplicationDbContext();
+        private object mFirstname;
+        private string mLastname;
+        private DateTime mDateOfBirth;
+        private string mPosition;
+        private string mGoals;
+        private string mAssists;
+        private string mYellowCards;
+        private string mRedCards;
+
+        //Encapsulation (get, set methods)
+        public object Firstname {
+            get
+            {
+                //return the private data
+                return mFirstname;
+            }
+            set
+            {
+                //set the private data
+                mFirstname = value;
+            }
+        }
+        public string Lastname {
+            get
+            {
+                //return the private data
+                return mLastname;
+            }
+            set
+            {
+                //set the private data
+                mLastname = value;
+
+            }
+        }
+        public DateTime DateOfBirth {
+            get
+            {
+                //return the private data
+                return mDateOfBirth;
+            }
+            set
+            {
+                //set the private data
+                mDateOfBirth = value;
+            }
+        }
+        public string Position {
+            get
+            {
+                //return the private data
+                return mPosition;
+            }
+            set
+            {
+                //set the private data
+                mPosition = value;
+
+            }
+        }
+        public string Goals {
+            get
+            {
+                //return the private data
+                return mGoals;
+            }
+            set
+            {
+                //set the private data
+                mGoals = value;
+
+            }
+        }
+        public string Assists {
+            get
+            {
+                //return the private data
+                return mAssists;
+            }
+            set
+            {
+                //set the private data
+                mAssists = value;
+
+            }
+        }
+        public string YellowCards {
+            get
+            {
+                //return the private data
+                return mYellowCards;
+            }
+            set
+            {
+                //set the private data
+                mYellowCards = value;
+
+            }
+        }
+        public string RedCards {
+            get
+            {
+                //return the private data
+                return mRedCards;
+            }
+            set
+            {
+                //set the private data
+                mRedCards = value;
+
+            }
+        }
 
         // GET: Player
-        public ActionResult Index()
+        public ActionResult Index(int? id)
         {
-            var playerModels = db.PlayerModels.Include(p => p.Football);
-            return View(playerModels.ToList());
+            if (id == null)
+            {
+                var playerModels = db.PlayerModels.Include(p => p.Football);
+                return View(playerModels.ToList());
+            }
+            else
+            {
+                
+                return View(db.PlayerModels.Where(PlayerModel => PlayerModel.FootballClubId == id).ToList());
+            }
+           
         }
 
         // GET: Player/Details/5
@@ -128,5 +249,6 @@ namespace BARDSports.Controllers
             }
             base.Dispose(disposing);
         }
+        
     }
 }

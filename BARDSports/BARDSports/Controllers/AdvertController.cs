@@ -12,7 +12,35 @@ namespace BARDSports.Controllers
 {
     public class AdvertController : Controller
     {
-        private BARDSportsDBContext db = new BARDSportsDBContext();
+        private ApplicationDbContext db = new ApplicationDbContext();
+       //get set method
+        public string Description { get; set; }
+
+        //public string valid(string Description)//, DateTime DOB)
+        //{
+        //    string errorMsg = "rgtsryr";
+
+        //    if (Description.Length < 2)
+        //    {
+        //        errorMsg = "";
+        //    }
+        //    if (Description.Length > 20)
+        //    {
+        //        errorMsg = "shddt";
+        //    }
+
+        //    if (DOB > DateTime.Now.AddYears(-16))
+        //    {
+        //        errorMsg = "too young";
+        //    }
+        //    if (DOB < DateTime.Now.AddYears(-110))
+        //    {
+        //        errorMsg = "too old";
+        //    }
+
+        //    return errorMsg;
+
+        //}
 
         // GET: Advert
         public ActionResult Index()

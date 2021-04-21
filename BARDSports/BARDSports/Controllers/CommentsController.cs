@@ -12,12 +12,12 @@ namespace BARDSports.Controllers
 {
     public class CommentsController : Controller
     {
-        private BARDSportsDBContext db = new BARDSportsDBContext();
+        private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Comments
         public ActionResult Index()
         {
-            var commentsModels = db.CommentsModels.Include(c => c.Player).Include(c => c.User);
+            var commentsModels = db.CommentsModels.Include(p => p.Player);
             return View(commentsModels.ToList());
         }
 
@@ -40,7 +40,6 @@ namespace BARDSports.Controllers
         public ActionResult Create()
         {
             ViewBag.PlayerId = new SelectList(db.PlayerModels, "PlayerId", "Firstname");
-            ViewBag.UserId = new SelectList(db.UserModels, "UserId", "Email");
             return View();
         }
 
@@ -49,7 +48,7 @@ namespace BARDSports.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CommentsId,PlayerId,UserId,Rating,Date")] CommentsModel commentsModel)
+        public ActionResult Create([Bind(Include = "CommentsId,PlayerId,Id,Rating,Date")] CommentsModel commentsModel)
         {
             if (ModelState.IsValid)
             {
@@ -59,7 +58,6 @@ namespace BARDSports.Controllers
             }
 
             ViewBag.PlayerId = new SelectList(db.PlayerModels, "PlayerId", "Firstname", commentsModel.PlayerId);
-            ViewBag.UserId = new SelectList(db.UserModels, "UserId", "Email", commentsModel.UserId);
             return View(commentsModel);
         }
 
@@ -76,7 +74,6 @@ namespace BARDSports.Controllers
                 return HttpNotFound();
             }
             ViewBag.PlayerId = new SelectList(db.PlayerModels, "PlayerId", "Firstname", commentsModel.PlayerId);
-            ViewBag.UserId = new SelectList(db.UserModels, "UserId", "Email", commentsModel.UserId);
             return View(commentsModel);
         }
 
@@ -85,7 +82,7 @@ namespace BARDSports.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CommentsId,PlayerId,UserId,Rating,Date")] CommentsModel commentsModel)
+        public ActionResult Edit([Bind(Include = "CommentsId,PlayerId,Id,Rating,Date")] CommentsModel commentsModel)
         {
             if (ModelState.IsValid)
             {
@@ -94,7 +91,6 @@ namespace BARDSports.Controllers
                 return RedirectToAction("Index");
             }
             ViewBag.PlayerId = new SelectList(db.PlayerModels, "PlayerId", "Firstname", commentsModel.PlayerId);
-            ViewBag.UserId = new SelectList(db.UserModels, "UserId", "Email", commentsModel.UserId);
             return View(commentsModel);
         }
 
