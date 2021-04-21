@@ -349,6 +349,7 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\AdvertModel.cs" />
+    <Compile Include="Models\BARDSportsDataInitialiser.cs" />
     <Compile Include="Models\CommentsModel.cs" />
     <Compile Include="Models\FootballClubModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
