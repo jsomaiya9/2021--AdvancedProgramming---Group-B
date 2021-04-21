@@ -12,7 +12,7 @@ namespace BARDSports.Controllers
 {
     public class LeagueController : Controller
     {
-        private BARDSportsDBContext db = new BARDSportsDBContext();
+        private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: League
         public ActionResult Index()

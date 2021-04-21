@@ -139,8 +139,305 @@ D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\System.Web.Web
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\System.Web.Helpers.xml
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\System.Web.Mvc.xml
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csprojAssemblyReference.cache
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CoreCompileInputs.cache
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CopyComplete
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.dll
 D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.pdb
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csprojAssemblyReference.cache
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Owin.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\WebGrease.dll
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.pdb
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.xml
+D:\Advanced programming- Jai\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CoreCompileInputs.cache
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.pdb
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll.config
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\BARDSports.pdb
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe.config
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.rsp
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe.config
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.rsp
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.AppContext.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Console.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe.config
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.rsp
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\EntityFramework.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\EntityFramework.SqlServer.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Owin.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Helpers.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Mvc.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Razor.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\WebGrease.dll
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.pdb
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\EntityFramework.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\EntityFramework.SqlServer.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Razor.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Helpers.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\System.Web.Mvc.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jai\Desktop\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CopyComplete
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll.config
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.pdb
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\EntityFramework.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Owin.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\WebGrease.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Antlr3.Runtime.pdb
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\EntityFramework.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Optimization.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csprojAssemblyReference.cache
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CopyComplete
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.dll
+C:\Users\User\Downloads\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.pdb
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll.config
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\BARDSports.pdb
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.exe.config
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csc.rsp
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.exe.config
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\csi.rsp
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.AppContext.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Collections.Immutable.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Console.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Compression.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.IO.Pipes.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Reflection.Metadata.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.AccessControl.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Claims.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.ValueTuple.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.exe.config
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\vbc.rsp
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe
+D:\BARDSports\BARDSports\BARDSports\BARDSports\bin\roslyn\VBCSCompiler.exe.config
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CoreCompileInputs.cache
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.CopyComplete
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.dll
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.pdb
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.InitialCreate.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csproj.GenerateResource.cache
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.changes.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.InitialCreate1.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.AddFootballClubFields.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.changeIdToUserId.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.changeUserIdToId.resources
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.csprojAssemblyReference.cache
+D:\BARDSports\BARDSports\BARDSports\BARDSports\obj\Debug\BARDSports.Migrations.changes1.resources

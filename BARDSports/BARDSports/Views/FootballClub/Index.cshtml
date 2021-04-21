@@ -4,7 +4,7 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Football Club</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
@@ -25,6 +25,18 @@
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Cleansheets)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Wins)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Draws)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Points)
         </th>
         <th></th>
     </tr>
@@ -47,9 +59,22 @@
             @Html.DisplayFor(modelItem => item.Cleansheets)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.FootballClubId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.FootballClubId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.FootballClubId })
+            @Html.DisplayFor(modelItem => item.Wins)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Draws)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Points)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.FootballClubId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.FootballClubId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.FootballClubId })|
+            @Html.ActionLink("Player", "Index", "Player", routeValues: new { id = item.FootballClubId }, htmlAttributes: new { id = item.FootballClubId })
         </td>
     </tr>
 }
