@@ -9,8 +9,8 @@ namespace BARDSports.Models
     
     public class FootballClubModel
     {
-        [Key]
         //Encapsulation get, set methods
+        [Key]        
         public virtual int FootballClubId { get; set; }//primary key
         public virtual int LeagueId { get; set; }//foreign key
         public virtual string FootballClubName { get; set; }
@@ -21,8 +21,11 @@ namespace BARDSports.Models
         public virtual int Draws { get; set; }
         public virtual int Lost { get; set; }
         public virtual int Points { get; set; }
+        //set foreign key
         public virtual LeagueModel League { get; set; }
 
+        //method with parameters
+        //create valid string
         public string valid(int Passes, int Cleansheets, int Wins, int Draws, int Lost, int Points)
         {
             string ErrorMessage = "";

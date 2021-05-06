@@ -8,19 +8,18 @@ namespace BARDSports.Models
 {
     public class CommentsModel
     {
-
-        [Key]
         //Encapsulation get, set methods
+        [Key]        
         public virtual int CommentsId { get; set; }//primary key       
         public virtual int PlayerId { get; set; } //foreign key       
         public virtual string Id { get; set; } //foreign key
         public virtual int Rating { get; set; }
         public virtual DateTime Date { get; set; }
+        //set foreign key
         public virtual PlayerModel Player { get; set; }
 
-
-
-
+        //method with parameters
+        //create valid string       
         public string valid(int rating, DateTime date)
         {
             string ErrorMessage = "";
